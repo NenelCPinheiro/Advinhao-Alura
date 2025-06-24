@@ -10,7 +10,7 @@ function exibirTextoNaTela (tag, texto) {
 }
 
 function exibirMensagemInicial () {
-    exibirTextoNaTela ("h1", "Advinhão");
+    exibirTextoNaTela ("h1", "Adivinhão");
     exibirTextoNaTela ("p", "Escolha um numero inteiro entre 1 e 50.");
 }
 exibirMensagemInicial();
